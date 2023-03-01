@@ -155,10 +155,10 @@ h2{
 }
 p{
     font-size: 12px;
-    max-width: 300px;
+    max-width: 270px;
 }
 .wrp{
-    max-width: 300px;
+    max-width: 270px;
 }
 h2:hover{
     font-size: 20px;
@@ -195,6 +195,6 @@ right: 80px;
 right: 80px;
 }
     h1{
-    margin:10px;
+    margin:20px;
     }
 }
